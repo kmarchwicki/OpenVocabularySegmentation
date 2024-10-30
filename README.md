@@ -1,0 +1,2 @@
+# OpenVocabularySegmentation
+Automatic segmentations with Florence2 and SegmentAnything2
